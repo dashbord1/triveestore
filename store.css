@@ -241,6 +241,17 @@ img{
    cursor: pointer;
 }
 
+#discount
+{
+   color: red;
+   text-decoration: line-through;
+}
+#short
+{
+   font-size: 12px;
+   color: red;
+}
+
 *
 {
     margin: 0;
